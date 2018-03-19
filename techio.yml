@@ -1,7 +1,10 @@
 title: Haxe Road Trip Part 1!
+description : An introduction to the very basics of the Haxe language. Build a foundation of Haxe syntax and learn how to use values, variables, and files.
 plan:
-- title: Welcome
-  statement: markdowns/welcome.md
+- title: The Cliffs of Value
+  plan:
+  - title: Booleans, The True Path
+    statement: markdowns/1-1.md
 projects:
   haxe:
     root: /haxe-project
